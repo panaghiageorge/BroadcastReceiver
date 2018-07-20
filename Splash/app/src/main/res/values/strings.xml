@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="load">Loading ...</string>
+    <string name="name">This is "The seven deadly sins"</string>
+    <string name="start">Start Notificare</string>
+    <string name="stop">Stop Notificare</string>
+</resources>
